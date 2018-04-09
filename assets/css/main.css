@@ -4304,3 +4304,9 @@ legend {
     animation-name: fadeInUp;
     -webkit-animation-name: fadeInUp;
 }
+
+@media (max-width: 767px) {
+	.phone .inner {
+		padding: 80px 40px;
+	}
+}
